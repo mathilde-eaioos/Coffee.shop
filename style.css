@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Platypi|Protest Riot");
+
+@import url("css/component/container.css");
+
+@import url("css/component/avatar.css");
+
+@import url("css/component/button.css");
+
+@import url("css/component/banner.css");
+
+@import url("css/component/card.css");
+
+body{
+	font-family: "Platypi", serif;
+	font-size: 17px;
+	margin: 0px;
+}
+
+h1, h2 { 
+	font-family: "Protest Riot", sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+
+}
